@@ -1,0 +1,8 @@
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\PSO\bin\Debug\PSO.exe
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\PSO\bin\Debug\PSO.pdb
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\PSO\obj\x86\Debug\PSO.exe
+C:\Users\Stefan-Ivan\AppData\Local\Temporary Projects\PSO\obj\x86\Debug\PSO.pdb
+C:\Users\Stefan-Ivan\Desktop\Projects\AkumuliraneGreske\PSO\PSO\obj\x86\Debug\PSO.exe
+C:\Users\Stefan-Ivan\Desktop\Projects\AkumuliraneGreske\PSO\PSO\obj\x86\Debug\PSO.pdb
+C:\Users\Stefan-Ivan\Desktop\Projects\AkumuliraneGreske\PSO\PSO\bin\Debug\PSO.exe
+C:\Users\Stefan-Ivan\Desktop\Projects\AkumuliraneGreske\PSO\PSO\bin\Debug\PSO.pdb
